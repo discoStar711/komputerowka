@@ -1,1 +1,3 @@
 Wrazenia po komputerowce: Rozpoczynam prace. Oswiadczam, ze pracuje samodzielnie i nie korzystam z pomocy osob trzecich.
+
+ciezko zaprojektowac czytelna obsluge bledow dla uzytkownika
